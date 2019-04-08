@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+发动发动粉丝扥
 Use the left arrow to go back!
